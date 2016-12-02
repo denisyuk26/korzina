@@ -1,0 +1,25 @@
+!!! 5
+%html
+  %head
+    %title
+    %meta
+    %link{:rel=>"stylesheet", :href=>"style/style.css"}
+  %body
+    .wrap
+      .top
+        %ul
+          %li
+          %li
+          %li
+      .mid
+        %h2
+        %ol
+          %li
+          %li
+          %li
+      .bot
+        %img{:src=>"img/pic_elephant.png"}
+        %img{:src=>"img/pic_basket.png"}
+        %img{:src=>"img/pic_hedgehog.png"}
+
+
